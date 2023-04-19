@@ -1,0 +1,22 @@
+h1 {
+    background-color: rgb(35, 205, 205);
+    text-align: center;
+}
+h2{
+    background-color: blueviolet;
+}
+h3{
+    background-color: coral;
+}
+body{
+    background-color: rgb(224, 213, 213);
+}
+button{
+    background-color: rgb(207, 186, 226);
+}
+p{
+    background-color: darkseagreen;
+}
+fieldset{
+    background-color: pink;
+}
